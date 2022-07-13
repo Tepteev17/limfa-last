@@ -400,7 +400,7 @@ video{
     position: relative;
     padding:30px 0;
     background-color: #3f3e3a;
-    margin-bottom:600px;
+    margin-bottom:400px;
 }
 .wrapper-container.beige{
     margin-bottom:400px;
@@ -471,10 +471,13 @@ video{
 
 .list-p{
     position: relative;
-    font-size: 20px;
+    list-style: auto;
+    font-size: 24px;
     margin: 30px 0;
 }
-
+.list-p li{
+    font-weight: 600
+}
 .why-list li{
     padding: 15px 0;
     color: #3f3e3a;
