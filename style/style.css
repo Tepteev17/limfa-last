@@ -248,12 +248,8 @@ a{
 .preview-ul li{
     list-style: auto;
     color: #ffffff;
-<<<<<<< HEAD
-=======
-    font-size: 1.9vh;
->>>>>>> 4ebf5623bcc83c66e8cd4ffbce71eb215f2a2244
     font-family: 'Montserrat',Arial,sans-serif;
-    line-height: 1.55;
+    line-height: 1;
     font-weight: 300;
     background-position: center center;
     border-color: transparent;
